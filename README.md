@@ -3,6 +3,11 @@
 Welcome to my page!
 I'm hibiki, Fullstack developer. currently living in Japan, Tokyo.
 
+## About My career
+
+<img width="1096" height="701" alt="image" src="https://github.com/user-attachments/assets/0416e00c-36d1-4c6f-802c-75c40a6d14cd" />
+
+
 ## 🔧 Things I code with
 
 <p>
