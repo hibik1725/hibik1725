@@ -39,3 +39,7 @@ I'm hibiki, Fullstack developer. currently living in Japan, Tokyo.
 ## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibik1725&layout=compact&theme=tokyonight)
+
+## blogs
+
+https://zenn.dev/coconala/articles/c33e04818367b5
